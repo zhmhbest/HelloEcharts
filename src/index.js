@@ -37,7 +37,7 @@ addChart({
     title: {
         text: '饼图'
     },
-
+    legend: {
         icon: 'circle'
     },
     series : [
